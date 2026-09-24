@@ -60,8 +60,10 @@ Routes through Westlands: Route 58 - Kikuyu, Route 14 - Westlands
 Journey fare (Westlands → Kikuyu): KES 150
 ```
 
+## purpose
+
+This project was created as part of my JavaScript learning journey to practice solving practical problems using core JavaScript concepts.
+
 ## Author 
 MARK MUKAMI
 
-
-This project was created as part of my JavaScript learning journey to practice solving practical problems using core JavaScript concepts.
